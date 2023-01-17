@@ -1,0 +1,12 @@
+.nav-container{
+    position:relative;
+    left: 0;
+    margin: 10px;
+    height: 100vh;
+    margin: 0px;
+    background-color: rgb(0,21,41);
+}
+
+.routes{
+    padding: 20px;
+}
