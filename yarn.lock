@@ -4764,10 +4764,10 @@
   "resolved" "https://registry.npmjs.org/char-regex/-/char-regex-2.0.1.tgz"
   "version" "2.0.1"
 
-"chart.js@^4.1.1", "chart.js@^4.1.2":
-  "integrity" "sha512-9L1w6WLPq6ztiWVVOYtDtpo0CUsBKDWPrUEdwChAyzczaikqeSwNKEv3QpJ7EO4ICcLSi6UDVhgvcnUhRJidRA=="
-  "resolved" "https://registry.npmjs.org/chart.js/-/chart.js-4.1.2.tgz"
-  "version" "4.1.2"
+"chart.js@^4.1.1", "chart.js@^4.2.0":
+  "integrity" "sha512-wbtcV+QKeH0F7gQZaCJEIpsNriFheacouJQTVIjITi3eQA8bTlIBoknz0+dgV79aeKLNMAX+nDslIVE/nJ3rzA=="
+  "resolved" "https://registry.npmjs.org/chart.js/-/chart.js-4.2.0.tgz"
+  "version" "4.2.0"
   dependencies:
     "@kurkle/color" "^0.3.0"
 
